@@ -1,3 +1,4 @@
+package level1;
 public class University {
     public static void main(String args[]){
         int fee=125000;

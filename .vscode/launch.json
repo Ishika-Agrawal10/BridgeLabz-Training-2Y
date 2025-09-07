@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumberChecker",
+            "request": "launch",
+            "mainClass": "NumberChecker",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
             "name": "FriendsComparison",
             "request": "launch",
             "mainClass": "FriendsComparison",

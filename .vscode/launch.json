@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveDuplicates",
+            "request": "launch",
+            "mainClass": "String_Function.RemoveDuplicates",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
             "name": "PalindromeCheck",
             "request": "launch",
             "mainClass": "String_Function.PalindromeCheck",

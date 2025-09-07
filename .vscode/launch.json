@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "String_Function.ReverseString",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
             "name": "VowelConsonantCount",
             "request": "launch",
             "mainClass": "String_Function.VowelConsonantCount",

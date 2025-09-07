@@ -33,7 +33,8 @@ public class NumberChecker {
 
     // Method to find the count of digits in the number
     public static int countDigits(int num) {
-        if (num == 0) return 1;
+        if (num == 0)
+            return 1;
         int count = 0;
         while (num != 0) {
             num /= 10;
@@ -89,7 +90,7 @@ public class NumberChecker {
                 secondLargest = digit;
             }
         }
-        return new int[]{largest, secondLargest};
+        return new int[] { largest, secondLargest };
     }
 
     // Method to find the smallest and second smallest elements in the digits array
@@ -104,6 +105,6 @@ public class NumberChecker {
                 secondSmallest = digit;
             }
         }
-        return new int[]{smallest, secondSmallest};
+        return new int[] { smallest, secondSmallest };
     }
 }

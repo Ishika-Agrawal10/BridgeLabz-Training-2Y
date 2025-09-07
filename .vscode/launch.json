@@ -1,0 +1,686 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Age",
+            "request": "launch",
+            "mainClass": "Age",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Copy",
+            "request": "launch",
+            "mainClass": "Arrays.Level1.Copy",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "FactorsArray",
+            "request": "launch",
+            "mainClass": "Arrays.Level1.FactorsArray",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "FizzBuzz",
+            "request": "launch",
+            "mainClass": "Arrays.Level1.FizzBuzz",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "MeanHeight",
+            "request": "launch",
+            "mainClass": "Arrays.Level1.MeanHeight",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Multi",
+            "request": "launch",
+            "mainClass": "Arrays.Level1.Multi",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "MultiplicationTable",
+            "request": "launch",
+            "mainClass": "Arrays.Level1.MultiplicationTable",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "NumberCheck",
+            "request": "launch",
+            "mainClass": "Arrays.Level1.NumberCheck",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "OddEvenArrays",
+            "request": "launch",
+            "mainClass": "Arrays.Level1.OddEvenArrays",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "StoreNumbers",
+            "request": "launch",
+            "mainClass": "Arrays.Level1.StoreNumbers",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "VotingEligibility",
+            "request": "launch",
+            "mainClass": "Arrays.Level1.VotingEligibility",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "BMIMultiArray",
+            "request": "launch",
+            "mainClass": "Arrays.Level2.BMIMultiArray",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "BMIProgram",
+            "request": "launch",
+            "mainClass": "Arrays.Level2.BMIProgram",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "DigitFrequency",
+            "request": "launch",
+            "mainClass": "Arrays.Level2.DigitFrequency",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeBonus",
+            "request": "launch",
+            "mainClass": "Arrays.Level2.EmployeeBonus",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "FriendsAgeHeight",
+            "request": "launch",
+            "mainClass": "Arrays.Level2.FriendsAgeHeight",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "LargestDigits",
+            "request": "launch",
+            "mainClass": "Arrays.Level2.LargestDigits",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "LargestDigits2",
+            "request": "launch",
+            "mainClass": "Arrays.Level2.LargestDigits2",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumberArray",
+            "request": "launch",
+            "mainClass": "Arrays.Level2.ReverseNumberArray",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Arrays.Level2.Student",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "StudentGrades",
+            "request": "launch",
+            "mainClass": "Arrays.Level2.StudentGrades",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Check",
+            "request": "launch",
+            "mainClass": "Check",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Countdown",
+            "request": "launch",
+            "mainClass": "Countdown",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Countdown2",
+            "request": "launch",
+            "mainClass": "Countdown2",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Divisible",
+            "request": "launch",
+            "mainClass": "Divisible",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Factorial1",
+            "request": "launch",
+            "mainClass": "Factorial1",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Factorial2",
+            "request": "launch",
+            "mainClass": "Factorial2",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Largest",
+            "request": "launch",
+            "mainClass": "Largest",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "BonusSalary",
+            "request": "launch",
+            "mainClass": "Level2.BonusSalary",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Calculator2",
+            "request": "launch",
+            "mainClass": "Level2.Calculator2",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Factor",
+            "request": "launch",
+            "mainClass": "Level2.Factor",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Factors2",
+            "request": "launch",
+            "mainClass": "Level2.Factors2",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "FizzBuzz(1)",
+            "request": "launch",
+            "mainClass": "Level2.FizzBuzz",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "FizzBuzz2",
+            "request": "launch",
+            "mainClass": "Level2.FizzBuzz2",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "HighestFactor",
+            "request": "launch",
+            "mainClass": "Level2.HighestFactor",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "HighestFactor2",
+            "request": "launch",
+            "mainClass": "Level2.HighestFactor2",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Item2",
+            "request": "launch",
+            "mainClass": "Level2.Item2",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Multiple",
+            "request": "launch",
+            "mainClass": "Level2.Multiple",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Multiple2",
+            "request": "launch",
+            "mainClass": "Level2.Multiple2",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "MultiplicationTable(1)",
+            "request": "launch",
+            "mainClass": "Level2.MultiplicationTable",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "OddEven2",
+            "request": "launch",
+            "mainClass": "Level2.OddEven2",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Operation1",
+            "request": "launch",
+            "mainClass": "Level2.Operation1",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Operation2",
+            "request": "launch",
+            "mainClass": "Level2.Operation2",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Perimeter",
+            "request": "launch",
+            "mainClass": "Level2.Perimeter",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Power1",
+            "request": "launch",
+            "mainClass": "Level2.Power1",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Power2",
+            "request": "launch",
+            "mainClass": "Level2.Power2",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Question",
+            "request": "launch",
+            "mainClass": "Level2.Question",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Triangle2",
+            "request": "launch",
+            "mainClass": "Level2.Triangle2",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Yard2",
+            "request": "launch",
+            "mainClass": "Level2.Yard2",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Young",
+            "request": "launch",
+            "mainClass": "Level2.Young",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "AbundantNumber",
+            "request": "launch",
+            "mainClass": "Level3.AbundantNumber",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "ArmstrongCheck",
+            "request": "launch",
+            "mainClass": "Level3.ArmstrongCheck",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "BMI",
+            "request": "launch",
+            "mainClass": "Level3.BMI",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Level3.Calculator",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Day",
+            "request": "launch",
+            "mainClass": "Level3.Day",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "DigitCount",
+            "request": "launch",
+            "mainClass": "Level3.DigitCount",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "HarshadNumber",
+            "request": "launch",
+            "mainClass": "Level3.HarshadNumber",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "LeapYear",
+            "request": "launch",
+            "mainClass": "Level3.LeapYear",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "LeapYearSingleIf",
+            "request": "launch",
+            "mainClass": "Level3.LeapYearSingleIf",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "PrimeCheck",
+            "request": "launch",
+            "mainClass": "Level3.PrimeCheck",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "StudentGrade",
+            "request": "launch",
+            "mainClass": "Level3.StudentGrade",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Natural",
+            "request": "launch",
+            "mainClass": "Natural",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "OddEven",
+            "request": "launch",
+            "mainClass": "OddEven",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "SalaryBonus",
+            "request": "launch",
+            "mainClass": "SalaryBonus",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Smallestno",
+            "request": "launch",
+            "mainClass": "Smallestno",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "SpringSeason",
+            "request": "launch",
+            "mainClass": "SpringSeason",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "ArrayIndexDemo",
+            "request": "launch",
+            "mainClass": "String.Level1.ArrayIndexDemo",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "CharArrayCheck",
+            "request": "launch",
+            "mainClass": "String.Level1.CharArrayCheck",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Comaringtwostring",
+            "request": "launch",
+            "mainClass": "String.Level1.Comaringtwostring",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "IllegalArgumentDemo",
+            "request": "launch",
+            "mainClass": "String.Level1.IllegalArgumentDemo",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "NullPointerDemo",
+            "request": "launch",
+            "mainClass": "String.Level1.NullPointerDemo",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "NumberFormatDemo",
+            "request": "launch",
+            "mainClass": "String.Level1.NumberFormatDemo",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "StringIndexDemo",
+            "request": "launch",
+            "mainClass": "String.Level1.StringIndexDemo",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Substring",
+            "request": "launch",
+            "mainClass": "String.Level1.Substring",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "UppercaseCompare",
+            "request": "launch",
+            "mainClass": "String.Level1.UppercaseCompare",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "SumNaturalNumbers",
+            "request": "launch",
+            "mainClass": "SumNaturalNumbers",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Sumofnaturalno2",
+            "request": "launch",
+            "mainClass": "Sumofnaturalno2",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Sumofnumber",
+            "request": "launch",
+            "mainClass": "Sumofnumber",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Sumofnumbers",
+            "request": "launch",
+            "mainClass": "Sumofnumbers",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Table",
+            "request": "launch",
+            "mainClass": "Table",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Age(1)",
+            "request": "launch",
+            "mainClass": "level1.Age",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Calculator(1)",
+            "request": "launch",
+            "mainClass": "level1.Calculator",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Conversion",
+            "request": "launch",
+            "mainClass": "level1.Conversion",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Discount",
+            "request": "launch",
+            "mainClass": "level1.Discount",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Earth",
+            "request": "launch",
+            "mainClass": "level1.Earth",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Handshake",
+            "request": "launch",
+            "mainClass": "level1.Handshake",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Height",
+            "request": "launch",
+            "mainClass": "level1.Height",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Item",
+            "request": "launch",
+            "mainClass": "level1.Item",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Pen",
+            "request": "launch",
+            "mainClass": "level1.Pen",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Profit",
+            "request": "launch",
+            "mainClass": "level1.Profit",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Square",
+            "request": "launch",
+            "mainClass": "level1.Square",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Triangle",
+            "request": "launch",
+            "mainClass": "level1.Triangle",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "University",
+            "request": "launch",
+            "mainClass": "level1.University",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "Yard",
+            "request": "launch",
+            "mainClass": "level1.Yard",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "avgmark",
+            "request": "launch",
+            "mainClass": "level1.avgmark",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "convert",
+            "request": "launch",
+            "mainClass": "level1.convert",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        }
+    ]
+}

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AnagramCheck",
+            "request": "launch",
+            "mainClass": "AnagramCheck",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
+            "name": "UniqueCharacters",
+            "request": "launch",
+            "mainClass": "UniqueCharacters",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
             "name": "VowelConsonantType",
             "request": "launch",
             "mainClass": "VowelConsonantType",

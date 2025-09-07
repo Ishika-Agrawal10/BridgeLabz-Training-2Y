@@ -1,3 +1,4 @@
+package level1;
 public class Earth {
     public static void main(String args[]) {
         int r = 6378;

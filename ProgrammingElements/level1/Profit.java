@@ -1,4 +1,4 @@
-package ProgrammingElements.level1;
+package level1;
 
 public class Profit {
     public static void main(String args[]){

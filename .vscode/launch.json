@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MostFrequentChar",
+            "request": "launch",
+            "mainClass": "String_Function.MostFrequentChar",
+            "projectName": "BridgeLabz-Training-2Y-1_5f4424ab"
+        },
+        {
+            "type": "java",
             "name": "LexicographicalCompare",
             "request": "launch",
             "mainClass": "String_Function.LexicographicalCompare",

@@ -1,4 +1,4 @@
-package HierarchicalInheritance;
+package HierarchialCallInheritance;
 class BankAccount {
     protected String accountNumber;
     protected double balance;
@@ -11,7 +11,7 @@ class BankAccount {
     public void displayDetails() {
         System.out.println("Account Number: " + accountNumber);
         System.out.println("Balance: ₹" + balance);
-    }
+    } 
 
     public void displayAccountType() {
         System.out.println("Generic Bank Account");

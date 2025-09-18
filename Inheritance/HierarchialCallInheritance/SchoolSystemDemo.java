@@ -1,4 +1,4 @@
-package HierarchicalInheritance;
+package HierarchialCallInheritance;
 class Person {
     protected String name;
     protected int age;
